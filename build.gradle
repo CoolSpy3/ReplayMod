@@ -125,7 +125,7 @@ repositories {
 }
 
 dependencies {
-    compile "com.coolspy3:HypixelAPI:1.0.0"
+    compile "com.coolspy3.mc:HypixelAPI:1.0.0"
     inJar "net.hypixel:HypixelAPI:3.0.0"
 }
 
